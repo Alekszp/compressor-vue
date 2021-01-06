@@ -9,7 +9,7 @@
     "server": "nodemon src/server/server.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "express": "^4.17.1",
     "http": "0.0.1-security",
